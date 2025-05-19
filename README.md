@@ -40,9 +40,7 @@
     <a href="https://angular.io/" target="_blank" style="padding: 0 40px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
     </a>
-    <a href="https://www.python.org" target="_blank" style="padding: 0 40px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a>
+   
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="padding: 0 40px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
     </a>
