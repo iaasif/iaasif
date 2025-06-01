@@ -6,7 +6,7 @@
 ### Connect with Me:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/imtiaz-a-asif-234920197/" target="blank" style="padding: 0 40px;">
+    <a href="https://www.linkedin.com/in/imtiaz-a-asif/" target="blank" style="padding: 0 40px;">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Imtiaz Ahmmed Asif" height="30" width="40" />
     </a>
     <a href="https://www.facebook.com/imtiazaasiff/" target="blank" style="padding: 0 40px;">
