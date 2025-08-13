@@ -5,7 +5,7 @@ I'm a **Jr Frontend Developer** passionate about building modern, impactful web 
 ## 🚀 Tech Stack & Skills
 - **Languages:** JavaScript, TypeScript, Go, Bash, C, C++, HTML, CSS
 - **Frameworks/Libraries:** Angular, React, Express, Node.js, Tailwind CSS
-- **Tools:** Linux, Shell scripting
+- **Tools:** Linux, Shell scripting git , github
 
 ## 👨‍💻 About Me
 - 💡 Always learning and exploring new technologies
