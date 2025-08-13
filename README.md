@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Imtiaz Ahmmed Asif</h1>
-<h3 align="center">Tech Enthusiast</h3>
-
----
 # Hi there 👋 I'm Imtiaz A. Asif
 
 I'm a **Jr Frontend Developer** passionate about building modern, impactful web experiences.
