@@ -2,18 +2,33 @@
 <h3 align="center">Tech Enthusiast</h3>
 
 ---
+# Hi there 👋 I'm Imtiaz A. Asif
 
-### Connect with Me:
+I'm a **Jr Frontend Developer** passionate about building modern, impactful web experiences.
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/imtiaz-a-asif/" target="blank" style="padding: 0 40px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Imtiaz Ahmmed Asif" height="30" width="40" />
-    </a>
-    <a href="https://www.facebook.com/imtiazaasiff/" target="blank" style="padding: 0 40px;">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - Imtiaz Ahmmed Asif" height="30" width="40" />
-    </a>
-</p>
+## 🚀 Tech Stack & Skills
+- **Languages:** JavaScript, TypeScript, Go, Bash, C, C++, HTML, CSS
+- **Frameworks/Libraries:** Angular, React, Express, Node.js, Tailwind CSS
+- **Tools:** Linux, Shell scripting
 
+## 👨‍💻 About Me
+- 💡 Always learning and exploring new technologies
+- 🧑‍💻 Focused on frontend development, but love diving into backend and DevOps too!
+- 🖥️ Linux enthusiast
+
+## 🏷️ Currently Learning
+![Currently Learning](https://img.shields.io/badge/-Always%20Learning-brightgreen)
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/imtiaz-a-asif/)
+
+---
+
+Feel free to check out my repositories or reach out if you'd like to collaborate!
+
+<!--
+**iaasif/iaasif** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+-->
 ---
 
 ### Languages and Tools:
