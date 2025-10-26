@@ -5,15 +5,13 @@ I'm a **Jr Frontend Developer** passionate about building modern, impactful web 
 ## 🚀 Tech Stack & Skills
 - **Languages:** JavaScript, TypeScript, Go, Bash, C, C++, HTML, CSS
 - **Frameworks/Libraries:** Angular, React, Express, Node.js, Tailwind CSS
-- **Tools:** Linux, Shell scripting, git , github
+- **Tools:** Linux, Shell scripting, git, github.
 
 ## 👨‍💻 About Me
 - 💡 Always learning and exploring new technologies
 - 🧑‍💻 Focused on frontend development, but love diving into backend and DevOps too!
 - 🖥️ Linux enthusiast
 
-## 🏷️ Currently Learning
-![Currently Learning](https://img.shields.io/badge/-Always%20Learning-brightgreen)
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/imtiaz-a-asif/)
