@@ -13,10 +13,6 @@ I'm a **Jr Frontend Developer** passionate about building modern, impactful web 
 - 🖥️ Linux enthusiast
 
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/imtiaz-a-asif/)
-
----
 
 Feel free to check out my repositories or reach out if you'd like to collaborate!
 
